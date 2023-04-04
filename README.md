@@ -23,8 +23,8 @@ och man kommer till html-sidan med lorem ipsum text om man klickar på internal 
 
 Bilder läggs i samma mapp som markdown-filen.
 
-![](extern.png);
-![](intern.png);
+![img.png](img.png)
+![img_1.png](img_1.png)
 
 Läs gärna:
 
